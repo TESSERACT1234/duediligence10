@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content:space-between /*flex-start*/;
+    padding: 10px 20px;
+    background-color: #fafafa; /* Dark background color for the navbar */
+  }
+  
+  .logo-img {
+    width: 70px; /* Adjust logo size */
+    height: auto;
+    margin-right: 15px;
+  }
+  
+  .company-name .name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #53a32e; /* Light green color for company name */
+    margin: 0;
+  }
+  
+  .company-name .slogan {
+    font-size: 14px;
+    color: #53a32e; /* White color for the slogan */
+    margin: 0;
+  }
+  
